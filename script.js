@@ -6,7 +6,7 @@ const frasesBonitas = [
     "Mantén tu enfoque en lo que deseas y nunca pierdas la esperanza.",
     "La perseverancia es la clave para alcanzar el éxito. Animo",
     "Tu fortaleza interior es mayor de lo que imaginas.",
-    "Sigue luchando, tus esfuerzos pronto darán fruto.",
+    "¿Qué hace una abeja en el gimnasio?¡Zum-ba!",
     "La determinación es el primer paso hacia el logro de tus sueños.",
     "Cada pequeño logro es un gran paso hacia tus objetivos.",
     "Tienes el poder de cambiar tu vida para mejor.",
